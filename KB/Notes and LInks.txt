@@ -1,0 +1,3 @@
+http://pages.mtu.edu/~suits/notefreqs.html
+https://www.mcvuk.com/development/procedural-audio-with-unity
+https://forum.unity.com/threads/onaudiofilterread-question.170273/
